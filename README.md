@@ -21,6 +21,7 @@
 -- clustering quality is measured for a range of number of clusters using SilhoutteCoefficient and Normalized MutualInformation
 
 ****************************************************************************************
+# Project flow and Additional details
 
 •	The main goal of this project is to classify a given document. The dataset used in this project is 20 mini news group data set. The 20 news groups are divided among 6 classes. So if a document is given, it should be classified into one of the 6 classes. There are 4 steps in this project- Feature Extraction, classification, feature selection, clustering.
 
